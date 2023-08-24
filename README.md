@@ -7,7 +7,7 @@ This code visualize the data on different types of pre-assigned Graph according 
 
 --for categorical or object datatype (with one column as input) it will produce bar graph.
 
---for datatime datatype with numeric datatype it will produce a dattime series graph.
+--for datatime datatype with numeric datatype it will produce a datetime series graph.
 
 --for two numeric datatype input it will produce scatter graph.
 
