@@ -1,5 +1,5 @@
 # basic_visualize_ml
-A python code for basic visualisation of .csv data file.
+A Command line Interface(CLI) tool basic visualisation of .csv data file.
 
 This code visualize the data on different types of pre-assigned Graph according to their datatype i.e
 
@@ -7,7 +7,7 @@ This code visualize the data on different types of pre-assigned Graph according 
 
 --for categorical or object datatype (with one column as input) it will produce bar graph.
 
---for datatime datatype with numeric datatype it will produce a datetime series graph.
+--for datatime datatype with numeric datatype it will produce a dattime series graph.
 
 --for two numeric datatype input it will produce scatter graph.
 
@@ -18,11 +18,13 @@ It also allows the user to check the mean, median, mode for a specific column.
 
 It also displays the complete data info at the start and also allows you to crosstab the columns.
 
+Prerequisite:-
+--install Pandas
+	use pip install Pandas
 
-Thanks
+--install matplotlib
+	use pip install matplotlib
+
+
+Thanks,
 Happy coding
-
-
-
-
-
