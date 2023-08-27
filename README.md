@@ -18,7 +18,7 @@ It also allows the user to check the mean, median, mode for a specific column.
 
 It also displays the complete data info at the start and also allows you to crosstab the columns.
 
-Prerequisite:-
+#Prerequisite:-
 --install Pandas
 	use pip install Pandas
 
